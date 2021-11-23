@@ -1,0 +1,55 @@
+body {
+  background-image: url(/gcbackground.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+/* finds the folder in which the img is located and styles it */
+
+/* Basic styling and positioning of different classes and id's defined on the .html pages */
+#h1 {
+  position: fixed;
+  left: 300px;
+  top: 650px;
+  color: aliceblue;
+}
+
+#h4 {
+  position: fixed;
+  left: 300px;
+  top: 690px;
+  color: aliceblue;
+}
+
+#p1 {
+  position: fixed;
+  left: 300px;
+  top: 715px;
+  color: aliceblue;
+}
+
+#p2 {
+  position: fixed;
+  left: 550px;
+  bottom: 865px;
+  font-size: 33px;
+}
+
+#p3 {
+  position: fixed;
+  left: 850px;
+  bottom: 865px;
+  font-size: 35px;
+}
+
+#p4 {
+  position: fixed;
+  right: 600px;
+  bottom: 865px;
+  font-size: 35px;
+}
+
+a {
+  text-decoration: none;
+}
+/* makes it so my hypertext doesn't have an underline and looks better */
